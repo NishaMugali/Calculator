@@ -39,7 +39,10 @@ Start performing calculations!
 
 
 🎨 Preview
+
+
 <img width="1914" height="863" alt="Screenshot 2025-11-06 163004" src="https://github.com/user-attachments/assets/e8ecc2bd-2c5e-4c0b-827e-d414d0b68e40" />
+
 
 
 🤝 Contributing
