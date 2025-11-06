@@ -1,4 +1,4 @@
-<img width="1914" height="863" alt="Screenshot 2025-11-06 163004" src="https://github.com/user-attachments/assets/e8ecc2bd-2c5e-4c0b-827e-d414d0b68e40" />🧮 Calculator
+🧮 Calculator
 
 A simple and responsive calculator built using HTML and CSS.
 This project demonstrates the basic structure and styling of a calculator interface, showcasing clean design and layout techniques using only front-end technologies.
@@ -36,6 +36,10 @@ git clone https://github.com/yourusername/calculator.git
 Open the index.html file in your browser
 
 Start performing calculations!
+
+
+🎨 Preview
+<img width="1914" height="863" alt="Screenshot 2025-11-06 163004" src="https://github.com/user-attachments/assets/e8ecc2bd-2c5e-4c0b-827e-d414d0b68e40" />
 
 
 🤝 Contributing
